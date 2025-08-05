@@ -23,11 +23,20 @@ It allows users to simulate crypto trades, manage portfolios, and experience the
 - Object-Oriented Programming (OOP)
 
 ## 📂 Project Structure
+Cryptex/
+│
+├── assets/ # Images, logos, icons,Audio Files,userdata
+├── src/ # All .cpp files
+├── include/ # All .h files
+└──  ui/ # All .ui files designed in Qt Designer
+│
+└── Cryptex.sln # Visual Studio Solution
+└── README.md # This file
 
 ## 🔧 How to Run
 
 1. Clone the repository:  
-
+https://github.com/Killercoder07/Cryptex.git
 2. Open `Cryptex.sln` in **Visual Studio** (with Qt plugin installed).
 3. Build & run the solution.
 
