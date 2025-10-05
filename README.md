@@ -48,10 +48,10 @@ https://github.com/Killercoder07/Cryptex.git
 
 This project is part of my academic coursework. Suggestions or improvements are welcome, but full collaboration is currently limited.
 
-KIILER OUT!
+
 ## 📄 License
 
 This project is privately licensed for educational purposes. Use and modify freely for learning.
-
+**KIILER OUT!**
 ---
 
