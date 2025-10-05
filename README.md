@@ -42,6 +42,10 @@ https://github.com/Killercoder07/Cryptex.git
 
 ## 📷 Preview
 
+<img width="1920" height="1080" alt="AdminPanel" src="https://github.com/user-attachments/assets/7929825a-a4a4-435e-b458-6f518cba77a4" />
+
+
+
 *Coming soon!* — Screenshots of the app interface.
 
 ## 🤝 Contributing
