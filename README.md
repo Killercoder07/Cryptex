@@ -58,8 +58,8 @@ https://github.com/Killercoder07/Cryptex.git
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7929825a-a4a4-435e-b458-6f518cba77a4" width="300"/>
-  <img src="https://github.com/user-attachments/assets/7929825a-a4a4-435e-b458-6f518cba77a4" width="300"/>
+  <img src="https://github.com/user-attachments/assets/7929825a-a4a4-435e-b458-6f518cba77a4" width="150"/>
+  <img src="https://github.com/user-attachments/assets/7929825a-a4a4-435e-b458-6f518cba77a4" width="150"/>
 
 </p>
 
